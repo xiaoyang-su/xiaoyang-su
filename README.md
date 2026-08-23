@@ -10,11 +10,13 @@ I'm interested in:
 ## Selected Projects
 
 ###  NBA Playoff Data Analysis
-XGBoost / Random Forest / AdaBoost  
-Published research project — [Paper](https://dl.acm.org/doi/full/10.1145/3801839.3801860) [Code](https://github.com/xiaoyang-su/NBA-playoff-data-analysis)
+
+ML research on playoff BPM estimation using XGBoost, Random Forest, and AdaBoost. 
+
+Published research project — [Paper](https://dl.acm.org/doi/full/10.1145/3801839.3801860) · [Code](https://github.com/xiaoyang-su/NBA-playoff-data-analysis)
 
 ###  SUSTC Recipe Backend
-Java / Spring JDBC / PostgreSQL / Docker
+Java / Spring JDBC / PostgreSQL / Docker — collaborative course project
 
 ###  Jungle Chess
 Java Swing / MVC / Game AI
