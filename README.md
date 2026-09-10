@@ -1,11 +1,12 @@
 # Hi, I'm Xiaoyang Su
 
-MEng IEOR @ UC Berkeley | Mathematics → Data Science / ML
+**MEng IEOR @ UC Berkeley | Mathematics → Data Science / ML**
 
-I'm interested in:
-- Machine Learning & Deep Learning
-- Data Systems & Backend Engineering
-- Mathematical Foundations of AI
+**Core Focus Areas:**
+- **Data Science & Analytics:** Statistical analysis, exploratory data analysis (EDA), and data storytelling.
+- **Predictive Modeling & ML:** Feature engineering, regression, classification, and interpretable ML (XGBoost, Random Forest).
+- **Optimization & Operations Research:** Mathematical modeling, optimization, and quantitative decision-making.
+
 
 ## Selected Projects
 
