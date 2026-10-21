@@ -1,4 +1,4 @@
-# Hi, I'm Xiaoyang Su
+# Hi, I'm Xiaoyang (Sunny) Su
 
 **MEng IEOR @ UC Berkeley | Mathematics → Data Science / ML**
 
