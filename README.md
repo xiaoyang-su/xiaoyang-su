@@ -16,6 +16,9 @@ ML research on playoff BPM estimation using XGBoost, Random Forest, and AdaBoost
 
 Published research project — [Paper](https://dl.acm.org/doi/full/10.1145/3801839.3801860) · [Code](https://github.com/xiaoyang-su/NBA-playoff-data-analysis) · [Dashboard](https://public.tableau.com/app/profile/sunny.su3199/viz/NBA-player-performance-dashboard/NBAPlayoffPlayerImpactExplorer)
 
+## Criteo A/B Testing (In Progress)
+This project presents a reproducible, retrospective analysis of Criteo’s corrected Uplift v2.1 benchmark.
+
 ###  SUSTC Recipe Backend
 Java / Spring JDBC / PostgreSQL / Docker — collaborative course project
 
